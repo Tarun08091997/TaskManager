@@ -6,10 +6,7 @@ export default function AddTask({createTask}) {
 
   const sendTaskDetails=() =>{
     if(task !== ""){
-      const newTask = {
-        'task' : task
-      }
-      createTask(newTask);
+      createTask(task);
       setTask("")
     }
   }
