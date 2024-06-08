@@ -1,6 +1,11 @@
-# Task Manager (React , node.js , Tailwind)
+# Task Manager (Vim ,React , node.js , Tailwind)
 
 Task Manager is a simple and interactive task management application built with React. It allows users to create, move, and delete tasks dynamically on the screen, with the positions of tasks being preserved across sessions using `localStorage`.
+
+![image](https://github.com/Tarun08091997/TaskManager/assets/61690911/e1a501bc-1b86-4321-98e3-9efc9267b619)
+
+![image](https://github.com/Tarun08091997/TaskManager/assets/61690911/905e94ff-a5e2-4f1a-90de-f9fbb7ae8779)
+
 
 ## Features
 
